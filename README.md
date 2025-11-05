@@ -1,9 +1,8 @@
-## Hi there 👋
+## Welcome to my profile 👋
 
-### ⚙️ Tech Stack
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
-![C](https://img.shields.io/badge/Code-C-blue?logo=c)
-![C++](https://img.shields.io/badge/Code-C++-00599C?logo=cplusplus)
-![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js)
+### 💻 Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+
